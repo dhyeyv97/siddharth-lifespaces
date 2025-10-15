@@ -1809,6 +1809,7 @@ header#pq-header.pq-header-style-3 .pq-header-wrapper.pq-header-sticky .navbar .
      gap: 8px;
      text-decoration: none;
      align-items: center;
+     font-size: 16px;
 }
 
 .pq-top-header.top-style-1 .top-header-row .pq-header-contact ul li span {
