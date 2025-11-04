@@ -1,0 +1,251 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_hr";
+    src: url("flaticon_hrc043.woff2?d89795e4092fb512c5dcedf64e46af69") format("woff2"),
+url("flaticon_hrc043.woff?d89795e4092fb512c5dcedf64e46af69") format("woff"),
+url("flaticon_hrc043.eot?d89795e4092fb512c5dcedf64e46af69#iefix") format("embedded-opentype"),
+url("flaticon_hrc043.ttf?d89795e4092fb512c5dcedf64e46af69") format("truetype"),
+url("flaticon_hrc043.svg?d89795e4092fb512c5dcedf64e46af69#flaticon_hr") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_hr !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-facebook-app-symbol:before {
+    content: "\f101";
+}
+.flaticon-twitter:before {
+    content: "\f102";
+}
+.flaticon-loupe:before {
+    content: "\f103";
+}
+.flaticon-shopping-bag:before {
+    content: "\f104";
+}
+.flaticon-shopping-cart:before {
+    content: "\f105";
+}
+.flaticon-check:before {
+    content: "\f106";
+}
+.flaticon-checked:before {
+    content: "\f107";
+}
+.flaticon-instagram:before {
+    content: "\f108";
+}
+.flaticon-mail:before {
+    content: "\f109";
+}
+.flaticon-location:before {
+    content: "\f10a";
+}
+.flaticon-back:before {
+    content: "\f10b";
+}
+.flaticon-next:before {
+    content: "\f10c";
+}
+.flaticon-clock:before {
+    content: "\f10d";
+}
+.flaticon-market:before {
+    content: "\f10e";
+}
+.flaticon-calendar:before {
+    content: "\f10f";
+}
+.flaticon-schedule:before {
+    content: "\f110";
+}
+.flaticon-check-1:before {
+    content: "\f111";
+}
+.flaticon-linkedin:before {
+    content: "\f112";
+}
+.flaticon-right:before {
+    content: "\f113";
+}
+.flaticon-down-arrow:before {
+    content: "\f114";
+}
+.flaticon-arrow:before {
+    content: "\f115";
+}
+.flaticon-sms:before {
+    content: "\f116";
+}
+.flaticon-circle:before {
+    content: "\f117";
+}
+.flaticon-eyes:before {
+    content: "\f118";
+}
+.flaticon-play-button-arrowhead:before {
+    content: "\f119";
+}
+.flaticon-bottom-right:before {
+    content: "\f11a";
+}
+.flaticon-quote:before {
+    content: "\f11b";
+}
+.flaticon-pin:before {
+    content: "\f11c";
+}
+.flaticon-facebook:before {
+    content: "\f11d";
+}
+.flaticon-linkedin-1:before {
+    content: "\f11e";
+}
+.flaticon-placeholder:before {
+    content: "\f11f";
+}
+.flaticon-location-1:before {
+    content: "\f120";
+}
+.flaticon-plus:before {
+    content: "\f121";
+}
+.flaticon-check-2:before {
+    content: "\f122";
+}
+.flaticon-delete:before {
+    content: "\f123";
+}
+.flaticon-phone-call:before {
+    content: "\f124";
+}
+.flaticon-menu:before {
+    content: "\f125";
+}
+.flaticon-sparkle:before {
+    content: "\f126";
+}
+.flaticon-dot:before {
+    content: "\f127";
+}
+.flaticon-select:before {
+    content: "\f128";
+}
+.flaticon-recruitment:before {
+    content: "\f129";
+}
+.flaticon-hr-manager:before {
+    content: "\f12a";
+}
+.flaticon-human-resources:before {
+    content: "\f12b";
+}
+.flaticon-hr:before {
+    content: "\f12c";
+}
+.flaticon-customer-care:before {
+    content: "\f12d";
+}
+.flaticon-networking:before {
+    content: "\f12e";
+}
+.flaticon-team-building:before {
+    content: "\f12f";
+}
+.flaticon-candidate:before {
+    content: "\f130";
+}
+.flaticon-human-resources-1:before {
+    content: "\f131";
+}
+.flaticon-recruitment-1:before {
+    content: "\f132";
+}
+.flaticon-hiring:before {
+    content: "\f133";
+}
+.flaticon-consultation:before {
+    content: "\f134";
+}
+.flaticon-human-resources-2:before {
+    content: "\f135";
+}
+.flaticon-hr-manager-1:before {
+    content: "\f136";
+}
+.flaticon-human-resources-3:before {
+    content: "\f137";
+}
+.flaticon-ideas:before {
+    content: "\f138";
+}
+.flaticon-business-analytics:before {
+    content: "\f139";
+}
+.flaticon-networking-1:before {
+    content: "\f13a";
+}
+.flaticon-record-keeping:before {
+    content: "\f13b";
+}
+.flaticon-human-resources-4:before {
+    content: "\f13c";
+}
+.flaticon-hire:before {
+    content: "\f13d";
+}
+.flaticon-recruitment-2:before {
+    content: "\f13e";
+}
+.flaticon-process:before {
+    content: "\f13f";
+}
+.flaticon-interview:before {
+    content: "\f140";
+}
+.flaticon-hiring-1:before {
+    content: "\f141";
+}
+.flaticon-headhunting:before {
+    content: "\f142";
+}
+.flaticon-employee-data:before {
+    content: "\f143";
+}
+.flaticon-resource:before {
+    content: "\f144";
+}
+.flaticon-policy:before {
+    content: "\f145";
+}
+.flaticon-requirements:before {
+    content: "\f146";
+}
+.flaticon-case-study:before {
+    content: "\f147";
+}
+.flaticon-international-recruitment:before {
+    content: "\f148";
+}
+.flaticon-share:before {
+    content: "\f149";
+}
+

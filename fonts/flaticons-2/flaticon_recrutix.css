@@ -1,0 +1,71 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_recrutix";
+    src: url("flaticon_recrutixb922.woff2?75027fb1481c50f2206d3afbaacea81c") format("woff2"),
+url("flaticon_recrutixb922.woff?75027fb1481c50f2206d3afbaacea81c") format("woff"),
+url("flaticon_recrutixb922.eot?75027fb1481c50f2206d3afbaacea81c#iefix") format("embedded-opentype"),
+url("flaticon_recrutixb922.ttf?75027fb1481c50f2206d3afbaacea81c") format("truetype"),
+url("flaticon_recrutixb922.svg?75027fb1481c50f2206d3afbaacea81c#flaticon_recrutix") format("svg")
+}
+
+i[class^="pt-flaticon-"]:before, i[class*=" pt-flaticon-"]:before {
+    font-family: flaticon_recrutix !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: inherit;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pt-flaticon-plus:before {
+    content: "\f101";
+}
+.pt-flaticon-black-check-box-with-white-check:before {
+    content: "\f102";
+}
+.pt-flaticon-whatsapp:before {
+    content: "\f103";
+}
+.pt-flaticon-paper-plane:before {
+    content: "\f104";
+}
+.pt-flaticon-instagram:before {
+    content: "\f105";
+}
+.pt-flaticon-mail:before {
+    content: "\f106";
+}
+.pt-flaticon-record-button:before {
+    content: "\f107";
+}
+.pt-flaticon-star:before {
+    content: "\f108";
+}
+.pt-flaticon-right:before {
+    content: "\f109";
+}
+.pt-flaticon-left:before {
+    content: "\f10a";
+}
+.pt-flaticon-play-button-arrowhead:before {
+    content: "\f10b";
+}
+.pt-flaticon-share:before {
+    content: "\f10c";
+}
+.pt-flaticon-forward:before {
+    content: "\f10d";
+}
+
