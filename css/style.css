@@ -157,7 +157,23 @@ section,
           padding: 50px 0;
      }
 }
+@media(max-width:1200px) {
 
+     .pq-section-title .pq-title .pq-title-heading {
+          font-size: 32px;
+     }
+
+     .pq-massage-us-section .pq-contact-form .pq-title {
+
+          font-size: 32px;
+     }
+
+     .pq-massage-us-section .pq-contact-form {
+          padding: 25px;
+     }
+
+
+}
 /*================================================
 Loading
 ================================================*/
@@ -1578,17 +1594,24 @@ header#pq-header.pq-header-style-3 .pq-header-wrapper .navbar .navbar-nav .menu-
 }
 
 header#pq-header.pq-header-style-3 .pq-header-wrapper .navbar .navbar-nav .menu-item a {
-     color: var(--dark-color);
-     font-family: var(--body-fonts);
-     font-size: 20px;
-     line-height: 2;
-     /* text-transform: uppercase; */
-     position: relative;
-     z-index: 1;
-     padding: 50px 25px;
-     transition: var(--transition);
-     text-decoration: none;
+       color: var(--dark-color);
+    font-family: var(--body-fonts);
+    font-size: 20px;
+    line-height: 2;
+    /* text-transform: uppercase; */
+    position: relative;
+    z-index: 1;
+    padding: 50px 25px;
+    transition: var(--transition);
+    text-decoration: none;
 }
+
+@media(max-width:1200px) {
+header#pq-header.pq-header-style-3 .pq-header-wrapper .navbar .navbar-nav .menu-item a {
+padding: 10px 25px ;
+}
+}
+
 
 header#pq-header.pq-header-style-3 .pq-header-wrapper .navbar .navbar-nav .menu-item.current-menu-item>a {
      color: var(--primary-color);
@@ -2348,12 +2371,13 @@ Footer
 
 /*===== Footer Background =====*/
 footer#pq-footer .pq-footer-style-1 {
-     background: #002b6d;
-     margin: 0 30px 30px;
-     border-radius: var(--border-radius);
-     overflow: hidden;
-     position: relative;
-     z-index: 1;
+        background: #002b6d;
+    margin: 0 30px 30px;
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    background-size: cover;
 }
 
 footer#pq-footer .pq-footer-style-1 .widget {
@@ -2712,6 +2736,12 @@ footer#pq-footer .pq-footer-style-1 .pq-copyright-footer .pq-copyright {
 
      footer#pq-footer .pq-footer-style-1 .pq-footer-form input.submit {
           margin-top: 15px;
+     }
+
+       footer#pq-footer .pq-footer-style-1 .pq-footer-top-list .pq-footer-logo-discription h2 {
+          color: var(--white-color);
+          font-size: 24px;
+          line-height: 36px;
      }
 
 }
@@ -9412,8 +9442,8 @@ Career Growth
 
 @media (max-width:1499px) {
      .pq-career-growth-section-wrapper .pq-wrapper-left-div {
-          background-color: var(--dark-color);
-          padding: 45px 30px;
+         background-color: #002b6d;
+        padding: 45px 30px;
      }
 }
 
@@ -11519,7 +11549,7 @@ quick answer
      }
 
      .pq-massage-us-section .pq-contact-form {
-          padding: 30px;
+          padding: 15px;
      }
 
      .pq-map iframe {
@@ -11598,23 +11628,7 @@ quick answer
 }
 
 
-@media(max-width:1200px) {
 
-     .pq-section-title .pq-title .pq-title-heading {
-          font-size: 32px;
-     }
-
-     .pq-massage-us-section .pq-contact-form .pq-title {
-
-          font-size: 32px;
-     }
-
-     .pq-massage-us-section .pq-contact-form {
-          padding: 25px;
-     }
-
-
-}
 
 
 
@@ -11635,13 +11649,38 @@ quick answer
      }
 
      header#pq-header .pq-header-wrapper .navbar .navbar-brand img {
-          height: 75px;
+               height: 80px;
      }
 
      .pq-massage-us-section .pq-contact-form .pq-title {
           font-size: 27px;
      }
 }
+
+@media(max-width:420px) {
+     .pq-main {
+          font-size: 25px !important;
+     }
+
+     .pq-service-page-section-wrapper .pq-wrapper-right-div .pq-title {
+          font-size: 24px;
+     }
+
+     .pq-breadcrumb-wrapper .pq-breadcrumb-style-1 .pq-breadcrumb-title h1 {
+          font-size: 24px;
+          line-height: 38px;
+     }
+
+     header#pq-header .pq-header-wrapper .navbar .navbar-brand img {
+               height: 80px;
+     }
+
+     .pq-massage-us-section .pq-contact-form .pq-title {
+          font-size: 25px;
+     }
+}
+
+
 
 .pq-icon img {
      width: 100px;
@@ -11659,8 +11698,8 @@ quick answer
 
 @media (max-width:397px) {
      .pq-section-title .pq-title .pq-title-heading {
-          font-size: 27px;
-          line-height: 36px;
+               font-size: 25px;
+        line-height: 35px;
      }
 }
 
